@@ -1,0 +1,17 @@
+F:\C#(GUI)\MosqueFinder\MosqueFinder\bin\Debug\MosqueFinder.exe.config
+F:\C#(GUI)\MosqueFinder\MosqueFinder\bin\Debug\MosqueFinder.exe
+F:\C#(GUI)\MosqueFinder\MosqueFinder\bin\Debug\MosqueFinder.pdb
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.Form1.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.Properties.Resources.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.csproj.GenerateResource.cache
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.csproj.CoreCompileInputs.cache
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.exe
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.pdb
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.FirstControler.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.SecondControler.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.ThirdControler.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.FourthControler.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.FifthControler.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.SixthControler.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.SeventhControler.resources
+F:\C#(GUI)\MosqueFinder\MosqueFinder\obj\Debug\MosqueFinder.csproj.AssemblyReference.cache
